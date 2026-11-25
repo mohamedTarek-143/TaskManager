@@ -1,0 +1,20 @@
+# Compiled binaries and object files
+*.exe
+*.out
+*.o
+*.obj
+*.d
+*.pdb
+
+
+
+# Build directories
+build/
+out/
+CMakeCache.txt
+CMakeFiles/
+
+# Editor / debugger artifacts (keep tasks.json/launch.json if shared)
+.vscode/.browse.VC.db*
+.vscode/ipch/
+.vscode/
